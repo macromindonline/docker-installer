@@ -1,6 +1,7 @@
 #!/bin/bash
+
 ##########################################
-# Script to install docker and zimbra zcs
+# Script to install docker on ubuntu server
 # idc at macromind dot online
 ##########################################
 set -e
